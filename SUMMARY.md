@@ -1,4 +1,5 @@
 # Table of contents
 
 * [GDRemoto](README.md)
-* [Real-Time Text Chat](concepts/real-time-text-chat.md)
+<!-- Godot3 -->
+* [Real-Time Text Chat](godot3/real-time-text-chat.md)
